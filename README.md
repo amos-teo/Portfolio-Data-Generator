@@ -3,9 +3,11 @@ Python code will generate necessary portfolio information to be used for allocat
 
 This code uses the yfinance package to pull out prices for the time period. Thereafter, it will use those prices to calculate daily holdings.
 
+Additional asset class and industry data is required in order to run asset allocation analysis.
+
 The daily holdings will be used as the basis for performance calculations.
 
-The demo includes Cash, Public Equities and Funds where prices are available on Yahoo Finance.
+The demo ("Transaction_Demo") includes Cash, Public Equities and Funds where prices are available on Yahoo Finance.
 
 The code can be used for transactions like Purchase, Sale, Money In or Out, Distributions or Contributions.
 
