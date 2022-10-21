@@ -14,4 +14,4 @@ The code can be used for transactions like Purchase, Sale, Money In or Out, Dist
 It will also require the user to map the transactions that matches the format provided. Use ticker from Yahoo Finance, eg. Tesla = TSLA, Apple = AAPL
 
 Please check out some visualizations that can be produced with available data.
-https://public.tableau.com/app/profile/amos.teo/viz/PerformanceDemoUsingPython/PerformanceSummary?
+https://public.tableau.com/app/profile/amos.teo/viz/PerformanceDemoUsingPython/PerformanceSummary
