@@ -1,5 +1,5 @@
 # Portfolio-Data-Generator
-Python code will generate necessary portfolio information to be used for allocation and performance analysis, all from a transaction list and additional asset class data.
+Code will generate necessary portfolio information to be used for allocation and performance analysis, all from a transaction list and additional asset class data.
 
 This code uses the yfinance package to pull out prices for the time period. Thereafter, it will use those prices to calculate daily holdings.
 
