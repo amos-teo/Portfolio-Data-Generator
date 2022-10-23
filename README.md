@@ -15,5 +15,7 @@ It will also require the user to map the transactions to matches the format prov
 
 You may also specify the index(es) you want to use in the analysis. The set-up so far can hold a mix of 2 indexes based on percentages which you specify. To set up the performance and standard deviation calculations on Tableau, please refer to the workbook linked below.
 
+The 'Portfolio_Demo_Data.xslx' file contains the output which can be used for visualization and reporting.
+
 Please check out some visualizations that can be produced using data generated.
 https://public.tableau.com/app/profile/amos.teo/viz/PerformanceDemoUsingPython/PerformanceSummary
