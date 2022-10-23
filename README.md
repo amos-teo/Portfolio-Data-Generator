@@ -1,5 +1,5 @@
 # Portfolio-Data-Generator
-Code will generate necessary portfolio information to be used for allocation and performance analysis, all from a transaction list and additional asset class data.
+Code will generate necessary portfolio information to be used for allocation and performance analysis, all from a list of transactions and additional asset class data.
 
 This code uses the yfinance package to pull out prices for public securities since inception. Thereafter, it will use those prices to calculate daily holdings.
 
