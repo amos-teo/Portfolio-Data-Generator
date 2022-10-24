@@ -1,7 +1,7 @@
 # Portfolio-Data-Generator
 Code will generate necessary portfolio information to be used for allocation and performance analysis, all from a list of transactions and additional asset class data.
 
-This code uses the yfinance package to pull out prices for public securities since inception. Thereafter, it will use those prices to calculate daily holdings.
+This code uses the yfinance (Yahoo Finance) package to pull out prices for public securities since inception. Thereafter, it will use those prices to calculate daily holdings.
 
 Additional asset class and industry data is required in order to run asset allocation analysis.
 
